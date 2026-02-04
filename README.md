@@ -168,7 +168,3 @@ Dashboard Design
 Business Insight Generation
 
 Advanced Excel (Pivot Tables, Slicers, Timeline)
-
-👤 Author
-
-Your Name
